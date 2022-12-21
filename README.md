@@ -14,10 +14,10 @@ Key features:
 
 
 <br><p><b>App Apk:</b></p>
-https://drive.google.com/file/d/1XcGuCoVxEPp3JEufwy2sXy0f-IqXm6PF/view?usp=share_link
+![Download install Apk](https://drive.google.com/file/d/1XcGuCoVxEPp3JEufwy2sXy0f-IqXm6PF/view?usp=share_link)
 
 <br><p><b>App Video Demonstration:</b></p>
-https://drive.google.com/file/d/1-jy6GxyYzSQBHK-BClp3XlGY74nBGVjI/view?usp=share_link
+![Watch app Video Demonstration ](https://drive.google.com/file/d/1-jy6GxyYzSQBHK-BClp3XlGY74nBGVjI/view?usp=share_link)
 
 <br><p><b>App Images:</b></p>
 <div class="column">
